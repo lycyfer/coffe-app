@@ -1,0 +1,18 @@
+.goodsHeader__block {
+    background: url('../../resources/goodsPageImg/coffee-2179009_1920.png');
+    width: 100%;
+    height: 260px;
+}
+
+.goodsHeader__title {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.goodsLink__main {
+    padding: 30px 150px;
+}

@@ -1,0 +1,214 @@
+.aboutOurGoods {
+    height: 1248px;
+    margin-top: 70px;
+}
+
+.aboutOurGoods__list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 61px auto;
+    width: 800px;
+    height: 580px;
+    flex-wrap: wrap;
+}
+
+.aboutOurGoods__list__item {
+    width: 220px;
+    height: 260px;
+    text-decoration: none;
+    background: #FFFFFF;
+    border-radius: 8px;
+    filter: drop-shadow(5px 5px 15px rgba(0, 0, 0, 0.25));
+}
+
+.aboutOurGoods__photo {
+    display: block;
+    margin: 0 auto;
+    padding-top: 37px;
+    width: 167px;
+    height: 115px;
+    object-fit: contain;
+}
+
+.item__country {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0px 20px;
+    padding-top: 14px;
+    text-align: end;
+}
+
+.aboutOurGoods__item {
+    display: flex;
+    justify-content: center;
+}
+
+.aboutOurGoods__title {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    color: #000000;
+}
+
+.aboutOurGoods__img {
+    width: 272px;
+    height: 355px;
+    margin-right: 70px;
+    filter: drop-shadow(5px 5px 30px rgba(0, 0, 0, 0.25));
+}
+
+.spawn__line_aboutOurGoods {
+    margin: 0 auto;
+    content: '';
+    width: 60px;
+    height: 1px;
+    background-color: black;
+}
+
+.Popa {
+    width: 200px;
+    height: 30px;
+    margin: 0 auto;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutOurGoods__text {
+    width: 346px;
+    height: 232px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.line {
+    width: 240px;
+    height: 0px;
+    display: block;
+    margin: 60px auto;
+    background-color: #000;
+    border: 1px solid #000000;
+}
+
+.filter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.aboutOurGoods__input {
+    width: 284px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-right: 41px;
+}
+
+.aboutOurGoods__filter {
+    width: 400px;
+    min-height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 41px;
+}
+
+.aboutOurGoods__lable {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    padding-right: 10px;
+    color: #000000;
+}
+
+.change__input {
+    width: 180px;
+    height: 30px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+
+}
+
+.change__input::placeholder {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+
+.aboutOurGoods__button {
+    width: 75px;
+    height: 30px;
+
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(255, 255, 255, 0.25);
+    border-radius: 4px 0px 0px 4px;
+
+    margin-right: 5px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.aboutOurGoods__button:hover {
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+.aboutOurGoods__button-light {
+    width: 80px;
+    height: 40px;
+
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(7, 56, 182, 0.8);
+    border-radius: 4px 0px 0px 4px;
+
+    margin-right: 5px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    text-align: center;
+    color: #000000;
+
+}
+
+.item__country {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+
+    color: #000000;
+}

@@ -1,0 +1,52 @@
+.aboutUs {
+    height: 520px;
+}
+
+.aboutUs__title {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.logo__second img {
+    display: block;
+    margin: 0 auto;
+    fill: black;
+}
+
+.aboba {
+    width: 200px;
+    height: 30px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spawn__line_aboutUs {
+    margin: 0 auto;
+    content: '';
+    width: 60px;
+    height: 1px;
+    background-color: black;
+}
+
+.aboutUs__text {
+    width: 589px;
+    height: 223px;
+    margin: 0 auto;
+    padding-top: 40px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+}

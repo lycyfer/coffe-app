@@ -1,0 +1,35 @@
+.footer__link {
+    height: 150px;
+}
+
+.footer__main__link {
+    width: 360px;
+    height: 40px;
+    padding-top: 30px;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin: 0 auto;
+}
+
+.menu_item__link {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    margin: 10px;
+    color: #000;
+    text-decoration: none;
+}
+.aboba {
+    padding-top: 30px;
+}
+
+.footer__spawn__line {
+    margin: 0 auto;
+    content: '';
+    width: 60px;
+    height: 1px;
+    background-color: black;
+}

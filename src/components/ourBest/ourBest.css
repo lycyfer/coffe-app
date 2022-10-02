@@ -1,0 +1,60 @@
+.ourBest {
+    height: 495px;
+    background: url('../../resources/mainImg/paper-1074131_1920.png') center center/cover no-repeat;
+}
+
+.ourBest {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.outBest__list {
+    display: flex;
+    justify-content: center
+}
+
+.ourBest__list__item {
+    width: 220px;
+    height: 240px;
+    margin: 0 71px;
+    background: rgba(255, 255, 255, 0.65);
+    border-radius: 8px;
+}
+
+.chandgeIMG {
+    width: 151px;
+    height: 130px;
+    padding-top: 22px;
+    object-fit: contain;
+}
+
+.item__descr {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 14px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.item__value {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 10px;
+    margin: 0 20px;
+    text-align: end;
+
+    color: #000000;
+}

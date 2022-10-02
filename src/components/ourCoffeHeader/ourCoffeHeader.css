@@ -1,0 +1,25 @@
+.coffeHeader__block {
+    background: url('../../resources/coffePageImg/coffee-shop-1209863_1920.png');
+    width: 100%;
+    height: 260px;
+}
+
+.coffeheader__title {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.coffelink__main {
+    padding: 30px 150px;
+}
+/* .coffelink__items {
+    width: 360px;
+    height: 40px;
+    padding: 40px 150px;
+    display: flex;
+    justify-content: space-between;
+} */
